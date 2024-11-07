@@ -1,6 +1,6 @@
-package com.game.service;
+package com.conversation.service;
 
-import com.game.model.Message;
+import com.conversation.model.Message;
 import java.io.Closeable;
 import java.io.IOException;
 import java.io.ObjectInputStream;

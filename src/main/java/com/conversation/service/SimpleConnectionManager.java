@@ -1,6 +1,6 @@
-package com.game.service;
+package com.conversation.service;
 
-import com.game.model.Message;
+import com.conversation.model.Message;
 import java.util.LinkedList;
 import java.util.Queue;
 

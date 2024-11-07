@@ -1,10 +1,10 @@
-package com.game;
+package com.conversation;
 
-import com.game.model.Message;
-import com.game.service.ConnectionManager;
-import com.game.service.Talker;
-import com.game.service.SimpleConnectionManager;
-import com.game.service.SocketConnectionManager;
+import com.conversation.model.Message;
+import com.conversation.service.ConnectionManager;
+import com.conversation.service.Talker;
+import com.conversation.service.SimpleConnectionManager;
+import com.conversation.service.SocketConnectionManager;
 import java.io.IOException;
 
 /**

@@ -1,4 +1,4 @@
-package com.game.model;
+package com.conversation.model;
 
 import java.io.Serializable;
 
